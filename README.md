@@ -4,4 +4,4 @@ This is my Portfolio. And as a Blockchain geek I had to make this Portfolio webs
 Check it out:
 https://floral-surf-9500.on.fleek.co
 
-valist coming up
+Static version of the website in valist https://app.valist.io/gaurav/web3portfolio
