@@ -7,5 +7,5 @@ https://floral-surf-9500.on.fleek.co
 valist version-
 https://app.valist.io/gaurav/web3portfolio
 
-If u want to run in localhost on your own clone the repository and :
-yarn run
+If u want to run in localhost on your own clone the repository and:
+yarn run 
